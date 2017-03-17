@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Banner from './Banner';
+import Footer from './Footer';
 
 class Root extends React.Component {
     render() {
@@ -8,6 +9,7 @@ class Root extends React.Component {
             <div>
                 <Banner />
                 {this.props.children}
+                <Footer />
             </div>
         );
     }
