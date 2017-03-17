@@ -21,7 +21,7 @@ class S315TGI extends React.Component {
                                     <p>These operations can be performed on details of different sizes and different materials. Machines are produced under
 							strict quality control and respond to all safety standards.</p>
                                     <h1>
-                                        <a href="documentation.html">
+                                        <a href="documentation">
                                             <span className="label label-primary">Detailed Docs</span>
                                         </a>
                                     </h1>
@@ -75,69 +75,71 @@ class S315TGI extends React.Component {
                     <div className="panel panel-default">
                         <div className="panel-heading">
                             S315TGI Parameters
-			</div>
+			            </div>
                         <div className="table-responsive">
                             <table className="table table-striped table-hover table-condensed">
-                                <tr className="info">
-                                    <th>Parameter</th>
-                                    <th>Value</th>
-                                </tr>
-                                <tr>
-                                    <td>Tool travel</td>
-                                    <td>0 – 315 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>Strokes per minute</td>
-                                    <td>17 – 60</td>
-                                </tr>
-                                <tr>
-                                    <td>Ram adjustment</td>
-                                    <td>235 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>Swivel angle of head</td>
-                                    <td>&plusmn; 45 &deg;</td>
-                                </tr>
-                                <tr>
-                                    <td>Head to table distance</td>
-                                    <td>510 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>Tool to column distance</td>
-                                    <td>460 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>Diameter of rotating table</td>
-                                    <td>450 mm (hole 80 mm)</td>
-                                </tr>
-                                <tr>
-                                    <td>Number of fixed positions of rotating table</td>
-                                    <td>24</td>
-                                </tr>
-                                <tr>
-                                    <td>Longitudinal travel of worktable</td>
-                                    <td>265 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>Transverse travel of worktable</td>
-                                    <td>200 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>Self-breaking main motor</td>
-                                    <td>4 kW / 5.5 HP</td>
-                                </tr>
-                                <tr>
-                                    <td>Net weight</td>
-                                    <td>1310 kg</td>
-                                </tr>
-                                <tr>
-                                    <td>Overall dimensions ( without packing )</td>
-                                    <td>1000 x 1500 x 2250 mm</td>
-                                </tr>
-                                <tr>
-                                    <td>On wooden skid</td>
-                                    <td>1150 x 1800 x 2450 mm</td>
-                                </tr>
+                                <tbody>
+                                    <tr className="info">
+                                        <th>Parameter</th>
+                                        <th>Value</th>
+                                    </tr>
+                                    <tr>
+                                        <td>Tool travel</td>
+                                        <td>0 – 315 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Strokes per minute</td>
+                                        <td>17 – 60</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Ram adjustment</td>
+                                        <td>235 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Swivel angle of head</td>
+                                        <td>&plusmn; 45 &deg;</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Head to table distance</td>
+                                        <td>510 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tool to column distance</td>
+                                        <td>460 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Diameter of rotating table</td>
+                                        <td>450 mm (hole 80 mm)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Number of fixed positions of rotating table</td>
+                                        <td>24</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Longitudinal travel of worktable</td>
+                                        <td>265 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Transverse travel of worktable</td>
+                                        <td>200 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Self-breaking main motor</td>
+                                        <td>4 kW / 5.5 HP</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Net weight</td>
+                                        <td>1310 kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Overall dimensions ( without packing )</td>
+                                        <td>1000 x 1500 x 2250 mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>On wooden skid</td>
+                                        <td>1150 x 1800 x 2450 mm</td>
+                                    </tr>
+                                </tbody>
                             </table>
                         </div>
                     </div>
