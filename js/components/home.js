@@ -18,10 +18,10 @@ class Home extends Component {
                             <div className="w3ls-two">
                                 <div className="col-md-8 col-md-offset-2 w3ls-left wow fadeInLeft animated" data-wow-delay=".5s">
                                     <div className="bla-left">
-                                        <a href="S315CNC.html"><img src="images/machines/front/S315CNC.png" alt="" /></a>
+                                        <a href="S315CNC"><img src="images/machines/front/S315CNC.png" alt="" /></a>
                                     </div>
                                     <div className="bla-right">
-                                        <h4><a href="S315CNC.html">S315CNC</a></h4>
+                                        <h4><a href="S315CNC">S315CNC</a></h4>
                                         <ul className="list1-2">
                                             <li>Slotting of various types of canals in various openings of machine details</li>
                                             <li>Slotting of orthogonal and involute splines</li>
@@ -41,10 +41,10 @@ class Home extends Component {
                             <div className="w3ls-one">
                                 <div className="col-md-6 w3ls-left wow fadeInLeft animated" data-wow-delay=".5s">
                                     <div className="bla-left">
-                                        <a href="S200DR.html"><img src="images/machines/front/S200DR.png" alt="" /></a>
+                                        <a href="S200DR"><img src="images/machines/front/S200DR.png" alt="" /></a>
                                     </div>
                                     <div className="bla-right">
-                                        <h4><a href="S200DR.html">S200DR</a></h4>
+                                        <h4><a href="S200DR">S200DR</a></h4>
                                         <ul className="list1-2">
                                             <li>Slotting of various types of canals in various openings of machine details</li>
                                             <li>Slotting of orthogonal and involute splines</li>
@@ -58,10 +58,10 @@ class Home extends Component {
                                 </div>
                                 <div className="col-md-6 w3ls-left wow fadeInRight animated" data-wow-delay=".5s">
                                     <div className="bla-left">
-                                        <a href="S315DR.html"><img src="images/machines/front/S315DR.png" alt="" /></a>
+                                        <a href="S315DR"><img src="images/machines/front/S315DR.png" alt="" /></a>
                                     </div>
                                     <div className="bla-right">
-                                        <h4><a href="S315DR.html">S315DR</a></h4>
+                                        <h4><a href="S315DR">S315DR</a></h4>
                                         <ul className="list1-2">
                                             <li>Slotting of various types of canals in various openings of machine details</li>
                                             <li>Slotting of orthogonal and involute splines</li>
@@ -80,10 +80,10 @@ class Home extends Component {
                             <div className="w3ls-two">
                                 <div className="col-md-6 w3ls-left wow fadeInLeft animated" data-wow-delay=".5s">
                                     <div className="bla-left">
-                                        <a href="S200TGI.html"><img src="images/machines/front/S200TGI.png" alt="" /></a>
+                                        <a href="S200TGI"><img src="images/machines/front/S200TGI.png" alt="" /></a>
                                     </div>
                                     <div className="bla-right">
-                                        <h4><a href="S200TGI.html">S200TGI</a></h4>
+                                        <h4><a href="S200TGI">S200TGI</a></h4>
                                         <ul className="list1-2">
                                             <li>Slotting of various types of canals in various openings of machine details</li>
                                             <li>Slotting of flat surfaces</li>
@@ -95,10 +95,10 @@ class Home extends Component {
                                 </div>
                                 <div className="col-md-6 w3ls-left wow fadeInRight animated" data-wow-delay=".5s">
                                     <div className="bla-left">
-                                        <a href="S315TGI.html"><img src="images/machines/front/S315TGI.png" alt="" /></a>
+                                        <a href="S315TGI"><img src="images/machines/front/S315TGI.png" alt="" /></a>
                                     </div>
                                     <div className="bla-right">
-                                        <h4><a href="S315TGI.html">S315TGI</a></h4>
+                                        <h4><a href="S315TGI">S315TGI</a></h4>
                                         <ul className="list1-2">
                                             <li>Slotting of various types of canals in various openings of machine details</li>
                                             <li>Slotting of flat surfaces</li>
