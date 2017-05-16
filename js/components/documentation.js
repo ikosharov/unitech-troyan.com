@@ -38,6 +38,9 @@ class Documentation extends Component {
                                     <tr>
                                         <td><a href="PDFs/DR/Manual_VSM_ESP_DR.pdf">MANUAL de servicio y explotación de máquinas mortajadoras verticales</a></td>
                                     </tr>
+                                    <tr>
+                                        <td><a href="PDFs/DR/Manual_VSM_DR_IT.pdf">MANUALE di funzionamento e manutenzione delle stozzatrici verticali</a></td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
