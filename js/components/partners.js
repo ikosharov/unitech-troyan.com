@@ -39,9 +39,9 @@ class Partners extends Component {
                         <div className="clearfix"></div>
 
                         <div className="col-md-6 ser-first-grid partners">
-                            <p><a href="http://www.kazstanex.kz"><img src="images/Logos/Kazstanex_logo.png" alt="Kazstanex LLP" /></a></p>
-                            <p><a href="http://www.kazstanex.kz">www.kazstanex.kz</a></p>
-                            <p>Almaty, Kazakhstan</p>
+                            <p><a href="http://www.trima-machines.com"><img src="images/Logos/trima-plus-logo.png" alt="Trima Plus Ltd" /></a></p>
+                            <p><a href="http://www.trima-machines.com">www.trima-machines.com</a></p>
+                            <p>Sofia, Bulgaria</p>
                         </div>
                         <div className="col-md-6 ser-first-grid partners">
                             <p><a href="http://www.umtools.ru"><img src="images/Logos/UMT_logo.gif" alt="UMT" /></a></p>
