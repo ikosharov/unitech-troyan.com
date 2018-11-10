@@ -32,8 +32,8 @@ class Partners extends Component {
                             <p>Milano, Italy</p>
                         </div>
                         <div className="col-md-6 ser-first-grid partners">
-                            <p><a href="http://www.longlife-raeumtechnik.de"><img src="images/Logos/LLR_logo.gif" alt="LLR" /></a></p>
-                            <p><a href="http://www.longlife-raeumtechnik.de">www.longlife-raeumtechnik.de</a></p>
+                            <p><a href="https://www.gierth-gmbh.de"><img src="images/Logos/Gierth_Gmbh.png" alt="Gierth GMBH" /></a></p>
+                            <p><a href="https://www.gierth-gmbh.de">www.gierth-gmbh.de</a></p>
                             <p>Sundern, Germany</p>
                         </div>
                         <div className="clearfix"></div>
